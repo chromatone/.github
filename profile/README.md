@@ -11,3 +11,10 @@
   <p align="center">
     Welcome to the open source music theory laboratory!
   </p>
+
+<p align="center" >
+  <a  href="https://www.reddit.com/r/chromatone" target="_blank"> reddit</a> |
+  <a  href="https://instagram.com/chromatone.center" target="_blank" data-v-34396f4b="">instagram</a> |
+  <a  href="mailto:support@chromatone.center">e-mail</a> 
+
+</p>
