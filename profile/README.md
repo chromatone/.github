@@ -1,4 +1,4 @@
-[![](https://chromatone.center/media/logo/logo.svg)](https://chromatone.center/)
+[![](https://chromatone.center/media/logo/300.png)](https://chromatone.center/)
 
 # Chromatone
 
