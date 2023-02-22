@@ -1,7 +1,7 @@
 <p align="center">
   <p align="center">
     <a href="www.chromatone.center" target="_blank">
-      <img src="https://raw.githubusercontent.com/chromatone/chromatone.center/master/public/media/logo/300.png" />
+      <img src="https://chromatone.center/media/logo/holologo.svg" />
     </a>
   </p>
   <h1 align="center">Chromatone</h1>
