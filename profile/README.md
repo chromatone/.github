@@ -30,11 +30,9 @@ This one simple rule creates a whole new space of useful applications for learni
 
 Main hub for research is based on the [main web-site](https://chromatone.center). It includes Theory and Practice parts, that are supposed to be interconnected by a student with some guidance by a teacher or a tutor. Theory is a digital garden of music knowledge. Practice is a number of interactive web-apps that utilize this theory in actionable and really useful form.
 
-More and more apps will be coming from the laboratory of Chromatone Practice to self-contained open source HTML+JS+CSS applications. We'll be using iframes to seamlessly integrate  Here's the actual list to check out growing.
-
 ## Chromatone web-apps
 
-Here's the list of ready to be built single-file web-apps as parts of the Chromatone ecosystem that fird their own shape as standalope PWAs.
+More and more apps will be coming from the laboratory of Chromatone Practice to self-contained open source HTML+JS+CSS applications. We'll be using iframes to seamlessly integrate them in the main center. Here's the list of ready to be built single-file web-apps as parts of the Chromatone ecosystem that fird their own shape as standalope PWAs.
 
 - [Spectrogram](https://spectrogram.chromatone.center) - Time-frequency live sound analysis for all
 - Color mixer
