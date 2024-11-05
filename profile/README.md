@@ -20,15 +20,15 @@
 
 </p>
 
-## Chroma (χρῶμα) means Color and Tonos (τόνος) means Sound. What if we add colors to notes? Let's see!
+## Chroma (χρῶμα) is Color and Tonos (τόνος) is Sound. We add colors to notes and see music we play.
 
-In the physical world visible electro-magnetic spectrum is far too different medium than sound waves in the air. We have two very different sense systems to perceive them with our eyes and ears. But then in our minds these merge into electric signals between our neurons. We are experimenting with music visualization and visual music composition as a wide field of innovative research and collective effort to introduce future generations to this elegant system.
+In the physical world visible electro-magnetic spectrum is completely different medium from sound waves in the air. We have two very distinct sensory systems to perceive them. But then deep in our brains these efforts merge into flows of electric signals between neurons. We experiment with sound visualization and visual music composition as a wide field of innovative research and collective effort to introduce future generations to this elegant music exploration system.
 
 ### 12 notes in an octave starting from A match with 12 colors at 30° around the wheel of hue starting from Red
 
-This one simple rule creates a whole new space of useful applications for learning and teaching, jamming and composing, attentive listening and intuitive performance. It all started from vector graphic designs, which then became interactive with SVG and JS. We printed the designs and opened Sticker shop, it was our version 1.0. Version 2.0 was all about experimentation on the platform of wonderful open-source tech like Vue, Vite and all other majestic NPM packages. Now we've reached version 3.0 that is signified by development of dozens of standalone web-apps that may be used offline and on almost any device.
+This one simple rule creates a whole new space of useful applications for intuitive learning and empowered teaching, relaxed jamming and visual composing, attentive listening and intuitive performance of your own music. It all started from vector graphic designs, which then became interactive with SVG and JS. The designs also got printed and [Sticker shop](https://shop.chromatone.center) started in 2018, it was our version 1.0. Version 2.0 was all about experimentation on the platform of wonderful open-source tech like Vue, Vite with all other majestic NPM packages. Now we've reached version 3.0 that is signified by development of dozens of standalone web-apps that may be used offline and on almost any device.
 
-Main hub for research is based on the [main web-site](https://chromatone.center). It includes Theory and Practice parts, that are supposed to be interconnected by a student with some guidance by a teacher or a tutor. Theory is a digital garden of music knowledge. Practice is a number of interactive web-apps that utilize this theory in actionable and really useful form.
+Main hub for research is based on the [main web-site](https://chromatone.center). It includes [Theory](https://chromatone.center/theory/) and [Practice](https://chromatone.center/practice/) sections, that are meant to be interconnected by a curious student with some level guidance and [Tutorship](https://tutor.chromatone.center). Theory is a digital garden of music knowledge. Practice is a number of interactive web-apps that utilize this theory in actionable and really useful form. [Academy](https://academy.chromatone.center) is a Nuxt app with Directus backend made to host the growing needs of constantly growing research community.
 
 ## Chromatone web-apps
 
