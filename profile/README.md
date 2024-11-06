@@ -30,52 +30,6 @@ This one simple rule creates a whole new space of useful applications for intuit
 
 Main hub for research is based on the [main web-site](https://chromatone.center). It includes [Theory](https://chromatone.center/theory/) and [Practice](https://chromatone.center/practice/) sections, that are meant to be interconnected by a curious student with some level guidance and [Tutorship](https://tutor.chromatone.center). Theory is a digital garden of music knowledge. Practice is a number of interactive web-apps that utilize this theory in actionable and really useful form. [Academy](https://academy.chromatone.center) is a Nuxt app with Directus backend made to host the growing needs of constantly growing research community.
 
-## Chromatone web-apps
-
-More and more apps will be coming from the laboratory of Chromatone Practice to self-contained open source HTML+JS+CSS applications. We'll be using iframes to seamlessly integrate them in the main center. Here's the list of ready to be built single-file web-apps as parts of the Chromatone ecosystem that fird their own shape as standalope PWAs.
-
-- [Spectrogram](https://spectrogram.chromatone.center) - Time-frequency live sound analysis for all
-- Color mixer
-- Monochord
-- String overtones
-- Dissonance curve
-- Circlular metronome
-- Beat bars
-- Tuner
-- Drone
-- Circle of Fifths
-- Tonal Array
-- Chord Tabs
-- Realbook
-- Raga
-- Scales
-- Chords
-- Chromagram
-- Palette
-- Radar
-- MIDI
-- Keys
-- Synth
-- Sampler
-- Noise
-- ChucK
-- AMY
-- Bounce
-- Pendulums
-- Matter
-- Ambient
-- Grid
-- Steps
-- ZZFX
-- Jam
-- Session
-- Paper
-- Extract notes from images
-- Lab
-- Pixel sort
-- P2P
-- Moire
-
 ## Collaborations
 
 - Playtronica:
