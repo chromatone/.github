@@ -28,7 +28,17 @@ In the physical world visible electro-magnetic spectrum is completely different 
 
 This one simple rule creates a whole new space of useful applications for intuitive learning and empowered teaching, relaxed jamming and visual composing, attentive listening and intuitive performance of your own music. It all started from vector graphic designs, which then became interactive with SVG and JS. The designs also got printed and [Sticker shop](https://shop.chromatone.center) started in 2018, it was our version 1.0. Version 2.0 was all about experimentation on the platform of wonderful open-source tech like Vue, Vite with all other majestic NPM packages. Now we've reached version 3.0 that is signified by development of dozens of standalone web-apps that may be used offline and on almost any device.
 
-Main hub for research is based on the [main web-site](https://chromatone.center). It includes [Theory](https://chromatone.center/theory/) and [Practice](https://chromatone.center/practice/) sections, that are meant to be interconnected by a curious student with some level guidance and [Tutorship](https://tutor.chromatone.center). Theory is a digital garden of music knowledge. Practice is a number of interactive web-apps that utilize this theory in actionable and really useful form. [Academy](https://academy.chromatone.center) is a Nuxt app with Directus backend made to host the growing needs of constantly growing research community.
+Main hub for research is based on the [main web-site](https://chromatone.center). It includes [Theory](https://chromatone.center/theory/) and [Practice](https://chromatone.center/practice/) sections, that are meant to be interconnected by curious students with some level of guidance and [Tutorship](https://tutor.chromatone.center). Theory is a digital garden of music knowledge. Practice is a number of interactive web-apps that utilize this theory in actionable and really useful form. [Academy](https://academy.chromatone.center) is a Nuxt app with Directus backend made to host the expanding needs of constantly growing Chromatone knowledge base and community around it.
+
+## Web-apps
+
+ - [chromatone.center](https://chromatone.center) - **Center** - Main web-site with all other apps either built-in as pages and panels or embedded as iframes from their original subdomain, as follows:
+ - [circulcar.chromatone.center](https://circular.chromatone.center) - **Circular Metronome** for music practice and polymeter compositions with MIDI clock, tap tempo and guess tempo from audio with your mic.
+ - [drone.chromatone.center](https://drone.chromatone.center) - **Drone** - digital tanpura / synth shruti box for singing, tuning instruments and harminizing pitches with others at scale
+- [spectrogram.chromatone.center](https://spectrogram.chromatone.center) - **Spectrogram** - Colorized live time-frequency analysis as audio-visual feedback loop for development of sound and music intuition
+- [elements.chromatone.center](https://elements.chromatone.center) - **Elements** - Multilayered polyphonic web-synth with MIDI, scale keyboard, audio analysis and effects built with [Elementary.js](https://elementary.audio/)
+- [midi.chromatone.center](https://midi.chromatone.center) - **MIDI-Monitor** - SHow all MIDI signals as panels to act upon to repeat and control the signals. Useful utility for routing and debugging MIDI.
+
 
 ## Collaborations
 
