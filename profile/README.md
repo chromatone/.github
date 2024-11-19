@@ -32,12 +32,13 @@ Main hub for research is based on the [main web-site](https://chromatone.center)
 
 ## Web-apps
 
- - [chromatone.center](https://chromatone.center) - **Center** - Main web-site with all other apps either built-in as pages and panels or embedded as iframes from their original subdomain, as follows:
- - [circulcar.chromatone.center](https://circular.chromatone.center) - **Circular Metronome** for music practice and polymeter compositions with MIDI clock, tap tempo and guess tempo from audio with your mic.
- - [drone.chromatone.center](https://drone.chromatone.center) - **Drone** - digital tanpura / synth shruti box for singing, tuning instruments and harminizing pitches with others at scale
-- [spectrogram.chromatone.center](https://spectrogram.chromatone.center) - **Spectrogram** - Colorized live time-frequency analysis as audio-visual feedback loop for development of sound and music intuition
-- [elements.chromatone.center](https://elements.chromatone.center) - **Elements** - Multilayered polyphonic web-synth with MIDI, scale keyboard, audio analysis and effects built with [Elementary.js](https://elementary.audio/)
-- [midi.chromatone.center](https://midi.chromatone.center) - **MIDI-Monitor** - SHow all MIDI signals as panels to act upon to repeat and control the signals. Useful utility for routing and debugging MIDI.
+ - **Chromatone.center** - Main web-site with all other apps either built-in as pages and panels or embedded as iframes from their original subdomains [chromatone.center](https://chromatone.center) 
+ - **Circular Metronome** - for music practice and polymeter compositions with MIDI clock, tap tempo and guess tempo from audio with your mic [circular.chromatone.center](https://circular.chromatone.center)
+ - **Drone** - digital tanpura / synth shruti box for singing, tuning instruments and harminizing pitches with others at scale [drone.chromatone.center](https://drone.chromatone.center)
+- **Spectrogram** - Colorized live time-frequency analysis as audio-visual feedback loop for development of sound and music intuition [spectrogram.chromatone.center](https://spectrogram.chromatone.center)
+- **Elements**  - Multilayered polyphonic web-synth with MIDI, scale keyboard, audio analysis and effects built with [Elementary.js](https://elementary.audio/) at [elements.chromatone.center](https://elements.chromatone.center)
+- **MIDI-Monitor** - Show all MIDI signals as panels to act upon to repeat and control the signals. Useful utility for routing and debugging MIDI [midi.chromatone.center](https://midi.chromatone.center)
+- **Circle of Fifths** - Interactive circle of fifths as composition tool and performance instrument. A tool to explore chords in tonal space.  [fifths.chromatone.center](https://fifths.chromatone.center/)
 
 
 ## Collaborations
