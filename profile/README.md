@@ -6,7 +6,7 @@
   </p>
   <h1 align="center">Chromatone</h1>
 
-  <h2 align="center">The visual music language</h2>
+  <h2 align="center">Visual Music Language</h2>
 
   <p align="center">
     Open source color based music notation
