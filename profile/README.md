@@ -44,5 +44,5 @@ Main hub for research is based on the [main web-site](https://chromatone.center)
 ## Collaborations
 
 - Playtronica:
-  - [Web-synths](https://synth.playtronica.com) - collection of synthesizers working in a browser
-  - [TouchMe Experience](https://touchme.chromatone.center) - a visualized web-synth for monophonic MIDI controllers
+  - **Web-synths** - collection of synthesizers working in a browser [synth.playtronica.com](https://synth.playtronica.com) 
+  - **TouchMe Experience** - a visualized web-synth for monophonic MIDI controllers [touchme.chromatone.center](https://touchme.chromatone.center)
