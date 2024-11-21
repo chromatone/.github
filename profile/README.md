@@ -32,18 +32,17 @@ Main hub for research is based on the [main web-site](https://chromatone.center)
 
 ## Web-apps
 
- - **Chromatone.center** - Main web-site with all other apps either built-in as pages and panels or embedded as iframes from their original subdomains [chromatone.center](https://chromatone.center) 
- - **Circular Metronome** - for music practice and polymeter compositions with MIDI clock, tap tempo and guess tempo from audio with your mic [circular.chromatone.center](https://circular.chromatone.center)
- - **Drone** - digital tanpura / synth shruti box for singing, tuning instruments and harminizing pitches with others at scale [drone.chromatone.center](https://drone.chromatone.center)
-- **Spectrogram** - Colorized live time-frequency analysis as audio-visual feedback loop for development of sound and music intuition [spectrogram.chromatone.center](https://spectrogram.chromatone.center)
-- **Elements**  - Multilayered polyphonic web-synth with MIDI, scale keyboard, audio analysis and effects built with [Elementary.js](https://elementary.audio/) at [elements.chromatone.center](https://elements.chromatone.center)
-- **MIDI-Monitor** - Show all MIDI signals as panels to act upon to repeat and control the signals. Useful utility for routing and debugging MIDI [midi.chromatone.center](https://midi.chromatone.center)
-- **Circle of Fifths** - Interactive circle of fifths as composition tool and performance instrument. A tool to explore chords in tonal space.  [fifths.chromatone.center](https://fifths.chromatone.center/)
-- **Real Book Navigator** - Interactive jazz standards chord progressions collection [fifths.chromatone.center](https://realbook.chromatone.center/)
+ - **[Chromatone.center](https://chromatone.center)** - Main web-site with all other apps either built-in as pages and panels or embedded as iframes from their original subdomains
+ - **[Circular Metronome](https://circular.chromatone.center)** - for music practice and polymeter compositions with MIDI clock, tap tempo and guess tempo from audio with your mic 
+ - **[Drone](https://drone.chromatone.center)** - digital tanpura / synth shruti box for singing, tuning instruments and harminizing pitches with others at scale 
+- **[Spectrogram](https://spectrogram.chromatone.center)** - Colorized live time-frequency analysis as audio-visual feedback loop for development of sound and music intuition
+- **[Elements Synth](https://elements.chromatone.center)**  - Multilayered polyphonic web-synth with MIDI, scale keyboard, audio analysis and effects built with [Elementary.js](https://elementary.audio/)
+- **[MIDI-Monitor](https://midi.chromatone.center)** - Show all MIDI signals as panels to act upon to repeat and control the signals. Useful utility for routing and debugging MIDI
+- **[Circle of Fifths](https://fifths.chromatone.center/)** - Interactive circle of fifths as composition tool and performance instrument. A tool to explore chords in tonal space. 
+- **[Real Book Navigator](https://realbook.chromatone.center/)** - Interactive jazz standards chord progressions collection
 
 
 ## Collaborations
 
-- Playtronica:
-  - **Web-synths** - collection of synthesizers working in a browser [synth.playtronica.com](https://synth.playtronica.com) 
-  - **TouchMe Experience** - a visualized web-synth for monophonic MIDI controllers [touchme.chromatone.center](https://touchme.chromatone.center)
+- **[Web-synths](https://synth.playtronica.com)** - collection of synthesizers working in a browser in collaboration with Playtronica
+- **[TouchMe Experience](https://touchme.chromatone.center)** - a visualized web-synth for monophonic MIDI controllers TouchMe by Playtronica
