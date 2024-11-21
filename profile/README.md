@@ -39,6 +39,7 @@ Main hub for research is based on the [main web-site](https://chromatone.center)
 - **Elements**  - Multilayered polyphonic web-synth with MIDI, scale keyboard, audio analysis and effects built with [Elementary.js](https://elementary.audio/) at [elements.chromatone.center](https://elements.chromatone.center)
 - **MIDI-Monitor** - Show all MIDI signals as panels to act upon to repeat and control the signals. Useful utility for routing and debugging MIDI [midi.chromatone.center](https://midi.chromatone.center)
 - **Circle of Fifths** - Interactive circle of fifths as composition tool and performance instrument. A tool to explore chords in tonal space.  [fifths.chromatone.center](https://fifths.chromatone.center/)
+- **Real Book Navigator** - Interactive jazz standards chord progressions collection [fifths.chromatone.center](https://realbook.chromatone.center/)
 
 
 ## Collaborations
